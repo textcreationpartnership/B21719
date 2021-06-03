@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the court at Whitehall, the 28th of October, 1664 Present the kings most excellent Majesty. His royal highness the Duke of York. Lord Chancellor. Lord Treasurer. Duke of Albemarle. Duke of Ormond. Lord Chamberlain. Earl of Anglesey. Earl of Lauderdail. Earl of Middleton. Lord Bishop of London. Lord Ashely. Mr. Vice-Chamberlain. Mr. Secretary Morice. Mr. Secretary Bennet. Mr. Chancellor of the Dutchy. Sir Edward Nicholas. It was this day ordered (His Majestie present in Council) that his Majesties declaration, for incouragement of sea-men and mariners imployed in the present service, be forthwith printed by his Majesties printer, &amp;c. Richard Browne. His Majesties declaration for encouragement of seamen and mariners employed in the present service.</title>
+            <title>Orders in Council. 1664-10-28.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21719</idno><idno type="EEBO-CITATION">99826919</idno>
+  <idno type="VID">206832</idno>
+  <idno type="EEBO-PROQUEST">2240871557</idno>
+  
+            <idno type="STC">Wing E811A</idno>
+            <idno type="PROQUEST">99826919</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826919e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206832)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1845:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the court at Whitehall, the 28th of October, 1664 Present the kings most excellent Majesty. His royal highness the Duke of York. Lord Chancellor. Lord Treasurer. Duke of Albemarle. Duke of Ormond. Lord Chamberlain. Earl of Anglesey. Earl of Lauderdail. Earl of Middleton. Lord Bishop of London. Lord Ashely. Mr. Vice-Chamberlain. Mr. Secretary Morice. Mr. Secretary Bennet. Mr. Chancellor of the Dutchy. Sir Edward Nicholas. It was this day ordered (His Majestie present in Council) that his Majesties declaration, for incouragement of sea-men and mariners imployed in the present service, be forthwith printed by his Majesties printer, &amp;c. Richard Browne. His Majesties declaration for encouragement of seamen and mariners employed in the present service.</title>
+                  <title>Orders in Council. 1664-10-28.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>England and Wales. Privy Council. aut</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Bill and Christopher Barker, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Cf. edition at Wing E811B, title of which begins: His Majesties declaration for encouragement of sea-men &amp; mariners employed in the present service.</note>
+                  <note>Identified on reel as C2964 (entry cancelled in Wing 2nd ed.).</note>
+                  <note>Reproduction of the original in the Society of Antiquities Library, London.</note>
+                  <note>Allowance instead of prize money 10s. per tun for every piece of ordnance; goods or merchandise above the gun-deck to be lawful pillage. The charges of sick and wounded will be provided.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:206832:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> At the COURT at WHITEHALL, the 28<seg rend="sup">th</seg> of <hi>October,</hi> 1664.</head>
+            <list>
+               <head>Present</head>
+               <item>The Kings most excellent Majesty.</item>
+               <item>His Royal Highness the Duke of <hi>York.</hi>
+               </item>
+               <item>Lord Chancellor.</item>
+               <item>Lord Treasurer.</item>
+               <item>Duke of <hi>Albemarle.</hi>
+               </item>
+               <item>Duke of <hi>Ormond.</hi>
+               </item>
+               <item>Lord Chamberlain.</item>
+               <item>Earl of <hi>Anglesey.</hi>
+               </item>
+               <item>Earl of <hi>Lauderdail.</hi>
+               </item>
+               <item>Earl of <hi>Middleton.</hi>
+               </item>
+               <item>Lord Bishop of <hi>London.</hi>
+               </item>
+               <item>Lord <hi>Ashley.</hi>
+               </item>
+               <item>Mr. Vice-Chamberlain.</item>
+               <item>Mr. Secretary <hi>Morice.</hi>
+               </item>
+               <item>Mr. Secretary <hi>Bennet.</hi>
+               </item>
+               <item>Mr. Chancellor of the Dutchy.</item>
+               <item>Sir <hi>Edward Nicholas.</hi>
+               </item>
+            </list>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>IT was this day Ordered (His Majestie present in Council) That His Majesties Declaration,</hi> For Incouragement of Sea-men and Ma<g ref="char:EOLhyphen"/>riners Imployed in the present Service, <hi>be forthwith Printed by His Majesties Printer,</hi> &amp;c.</p>
+                        <closer>
+                           <signed>Richard Browne.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>His Majesties Declaration For Encouragement of Seamen and Mariners Employed in the present Service.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majesty with much satisfaction taking notice of the great resolution and cheer<g ref="char:EOLhyphen"/>ful forwardness of the Sea-men and Mariners in the present Service necessarily undertaken for the Honour and Defence of His Dominions, and the Commerce and Trade of His Subjects; and resolving to give due reward and encouragement to their Valour and Faithfulness, hath thought fit (by the Advice of His Coun<g ref="char:EOLhyphen"/>cil) to Publish and Declare,</p>
+            <p>That all Captains, Seamen and others, that do or shall serve in any of His Majesties Own, or Merchants Ships employed in His Service, shall (for time to come, in lieu of all Prizes) have and receive from His Majesty for every Ship or Prize they shall lawfully take, whether Merchant-men, or Men of War, laden or light, the sum of Ten shillings for every Tun the said Ship shall measure, according to the Ordinary Rule of Shipwrights-Hall; and Six pounds thirteen shillings and four pence for every Piece of Ordnance, whether Iron or Brass, the same to be paid by the Collector for Prize-Goods, within Ten days after the payment of the Wages of such Sea-men (in case Adjudication be made of the Ship in the Admiralty-Court) to be shared and divided amongst them proportionably, according to the respective Places and Offices in the Ship in which they served, and according to the Custom of the Seas in that case.</p>
+            <p>And further, That it be lawful for all Captains, Sea-men and others, serving as aforesaid, to take and have to themselves as Pillage, without further or other accompt to be given for the same, All such Goods and Merchandise as shall be found by them or any of them, in any Ship (they shall take in Fight as Prize) upon or above the Gun-deck of the said Ship, and not otherwise: And for every Man of War sunk or destroyed by firing or otherwise, to have Ten pounds a Gun onely, to be divided as aforesaid, to be paid by the Commissioners for Prize-Goods, within Ten days after the payment of the Ship, as aforesaid, upon Certificate of the matter of Fact stated by the Council of War.</p>
+            <p>That care shall be taken for defraying the Charges of Sick and Wounded men, as aforesaid, and for the Relief of Widows, Children, and Impotent Parents of such as shall be slain in the Service at Sea; and for Meddals, or other Rewards to such Officers and Sea-men of the Fleet, as shall be found to have done any eminent or extraordinary Service.</p>
+            <p>And that for supplying of necessary provisions for Sick and Wounded men on Board, there shall be allowed by His Majesty Five pounds for six Moneths Service for every hundred men.</p>
+            <p>That upon the Discharge of Sick and Wounded men from the Ships in His Majesties Service, care shall be taken for the payment of their Tickets and Conduct-money.</p>
+            <p>That Directions shall be given to all Mayors, Bayliffs, or other Magistrates in any Port-Towns, to take care for all necessary Accommodations, at the Charge of His Majesty, for the Re<g ref="char:EOLhyphen"/>lief and Cure of such Sick and Wounded men as shall be sent on Shore.</p>
+            <p>That the Moyetie of all Hospitals in <hi>England,</hi> employed for the Cure of Wounded and Sick people, be reserved during the time of War at Sea, for such as shall be Wounded in the Service of the Navy, as they shall become void, from and after the first of <hi>November.</hi>
+            </p>
+            <closer>
+               <signed>Richard Browne, Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty, 1664.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
